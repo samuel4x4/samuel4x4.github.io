@@ -1,0 +1,19 @@
+{
+    "name": "samuel4x4/samuel4x4.github.io",
+    "type": "library",
+    "description": "GitHub personal page",
+    "keywords": ["github"],
+    "homepage": "http://samuel4x4.github.io/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samuel Chiriluta",
+            "email": "samuel4x4@gmail.com",
+            "homepage": "http://samuel4x4.github.io/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    } 
+}
